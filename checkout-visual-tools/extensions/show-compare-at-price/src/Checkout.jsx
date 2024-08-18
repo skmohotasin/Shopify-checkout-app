@@ -36,7 +36,7 @@ function Extension() {
   console.log("pintu",extension)
   return (
     <BlockStack border={"dotted"} padding={"tight"}>
-      <Text>{banner_title} hi</Text>
+      <Text>{banner_title}</Text>
       <Text>
       {shop.name}
       </Text>
